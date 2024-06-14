@@ -1,6 +1,6 @@
 {
   "name": "nest-http-proxy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Nest module wrapper for http-proxy-middleware",
   "author": "Chun-Kai Wang <chunkai1312@gmail.com>",
   "keywords": [
