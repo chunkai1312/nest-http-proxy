@@ -79,5 +79,13 @@
     ],
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chunkai1312/nest-http-proxy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chunkai1312/nest-http-proxy/issues"
+  },
+  "homepage": "https://github.com/chunkai1312/nest-http-proxy#readme"
 }
